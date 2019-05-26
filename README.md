@@ -37,7 +37,7 @@ General information, compilation and installation instructions
 
 ### Unofficial
 
-- [copperbits/TON](Telegram Open Network research group) - Telegram Open Network research group.
+- [copperbits/TON](https://github.com/copperbits/TON) - Telegram Open Network research group.
 - [Bitcoinwiki](https://en.bitcoinwiki.org/wiki/TON) - Technical description.
 - [Reddit](https://www.reddit.com/r/TelegramOpenNetwork/) - Fan community on reddit.
 - [Telegram TON Research](https://t.me/ton_research) - Telegam public group
