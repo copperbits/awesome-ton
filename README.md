@@ -3,8 +3,6 @@
 
 An awesome list about related to the Telegram Open Network (TON).
 
-Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
-
 ## Contents
 
 <!-- toc -->
@@ -48,18 +46,16 @@ General information, compilation and installation instructions
 
 ## Tutorials
 
-## Philosophy
-
 ## Articles
 - [Telegram Open Network (TON), Polkadot, Cosmos Network — Future of blockchains?](https://medium.com/@buttonwallet/telegram-open-network-ton-polkadot-cosmos-network-future-of-blockchains-7b466b8f2e40)
 
 ## Videos
 
-## Wallets
+- [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client
 
 # Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
 
 ## License
 
