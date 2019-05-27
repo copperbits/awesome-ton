@@ -33,25 +33,24 @@ An awesome list about related to the Telegram Open Network (TON).
 General information, compilation and installation instructions
 - [HOWTO](https://test.ton.org/HOWTO.txt) - Step-by-step description of creation of a new smart contract with the aid of the Lite Client
 
+### Misc
 
-
-### Unofficial
-
-- [copperbits/TON](https://github.com/copperbits/TON) - Telegram Open Network research group.
-- [Bitcoinwiki](https://en.bitcoinwiki.org/wiki/TON) - Technical description.
-- [Reddit](https://www.reddit.com/r/TelegramOpenNetwork/) - Fan community on reddit.
-- [Telegram TON Research](https://t.me/ton_research) - Telegam public group
+- [GitHub: copperbits/TON](https://github.com/copperbits/TON) - Telegram Open Network group of research enthusiasts. New community baked developers tools (Docker, Explorers, etc) releases will posted there.
+- [Telegram TON Research public group](https://t.me/ton_research) - with fan-developer updates about status of peoject and point to ask your quesitons.
+- [Bitcoinwiki](https://en.bitcoinwiki.org/wiki/TON) - Technical description
+- [Reddit](https://www.reddit.com/r/TelegramOpenNetwork/) - Fan community on reddit
 
 ## Programming
 
-## Tutorials
+- [TON explorer](https://explorer.test.ton.cryptoprocessing.io) - beta explorer for test network
 
 ## Articles
-- [Telegram Open Network (TON), Polkadot, Cosmos Network — Future of blockchains?](https://medium.com/@buttonwallet/telegram-open-network-ton-polkadot-cosmos-network-future-of-blockchains-7b466b8f2e40)
+- [Telegram Open Network (TON), Polkadot, Cosmos Network — Future of blockchains?](https://medium.com/@buttonwallet/telegram-open-network-ton-polkadot-cosmos-network-future-of-blockchains-7b466b8f2e40) - Expainer by Button wallet
 
 ## Videos
 
-- [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client
+- [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client by [@rstormsf (Roman Storm)](https://twitter.com/rstormsf)
+
 
 # Contribute
 
