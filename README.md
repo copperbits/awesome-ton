@@ -10,9 +10,11 @@ An awesome list about related to the Telegram Open Network (TON).
 - [TON Documentation](#ton-documentation)
   * [Official](#official)
   * [Community](#community)
-- [Programming](#programming)
-- [Articles](#articles)
+- [Tutorials](#tutorials)
+- [Block explorers](#block-explorers)
 - [Videos](#videos)
+- [Articles](#articles)
+- [Wiki](#wiki)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -35,20 +37,29 @@ An awesome list about related to the Telegram Open Network (TON).
 
 - [GitHub: copperbits/TON](https://github.com/copperbits/TON) - Telegram Open Network group of research enthusiasts. New community baked developers tools (Docker, Explorers, etc) releases will posted there
 - [Telegram TON Research public group](https://t.me/ton_research) - with fan-developer updates about status of peoject and point to ask your quesitons
-- [Bitcoinwiki](https://en.bitcoinwiki.org/wiki/TON) - Technical description
 - [Reddit](https://www.reddit.com/r/TelegramOpenNetwork/) - Fan community on reddit
 
-## Programming
+## Tutorials
+
+- [Original Readme](#original-readme)- text below
+- [Original HOWTO](/docs/HOWTO.md) - Step-by-step instructions for compiling and creating a simple smart contract
+- [ubuntu16.04.sh](https://github.com/copperbits/TON/blob/master/docs/ubuntu16.04.sh) - Build instructions for ubuntu 16.04
+
+## Block explorers
 
 - [TON explorer](https://explorer.test.ton.cryptoprocessing.io) - beta explorer for test network
-
-## Articles
-- [Telegram Open Network (TON), Polkadot, Cosmos Network — Future of blockchains?](https://medium.com/@buttonwallet/telegram-open-network-ton-polkadot-cosmos-network-future-of-blockchains-7b466b8f2e40) - Expainer by Button wallet
+- [Open source TONexplorer](http://tonwatcher.com) - by @EmelyanenkoK
 
 ## Videos
 
-- [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client by [@rstormsf (Roman Storm)](https://twitter.com/rstormsf)
+- [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client by [@rstormsf](https://twitter.com/rstormsf)
 
+## Articles
+- [Telegram Open Network (TON), Polkadot, Cosmos Network](https://medium.com/@buttonwallet/telegram-open-network-ton-polkadot-cosmos-network-future-of-blockchains-7b466b8f2e40) - Review by Button wallet
+
+## Wiki
+
+- [Bitcoinwiki](https://en.bitcoinwiki.org/wiki/TON) - Technical description
 
 ## Contribute
 
