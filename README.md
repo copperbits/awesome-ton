@@ -50,6 +50,10 @@ An awesome list about related to the Telegram Open Network (TON).
 - [TON explorer](https://explorer.test.ton.cryptoprocessing.io) - beta explorer for test network
 - [Open source TONexplorer](http://tonwatcher.com) - by @EmelyanenkoK
 
+## Faucet
+
+- [Faucet for TON](https://faucet.copperbits.io) - UI friendly faucet to get test Grams
+
 ## Videos
 
 - [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client by [@rstormsf](https://twitter.com/rstormsf)
