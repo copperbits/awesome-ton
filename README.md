@@ -7,17 +7,14 @@ An awesome list about related to the Telegram Open Network (TON).
 
 <!-- toc -->
 
-  * [TON Documentation](#ton-documentation)
-    + [Official](#official)
-    + [Unofficial](#unofficial)
-  * [Programming](#programming)
-  * [Tutorials](#tutorials)
-  * [Philosophy](#philosophy)
-  * [Articles](#articles)
-  * [Videos](#videos)
-  * [Wallets](#wallets)
+- [TON Documentation](#ton-documentation)
+  * [Official](#official)
+  * [Community](#community)
+- [Programming](#programming)
+- [Articles](#articles)
+- [Videos](#videos)
 - [Contribute](#contribute)
-  * [License](#license)
+- [License](#license)
 
 <!-- tocstop -->
 
@@ -25,18 +22,19 @@ An awesome list about related to the Telegram Open Network (TON).
 
 ### Official
 
-- [Telegram Open Network Whitepaper](https://test.ton.org/ton.pdf) – a general description
-- [Telegram Open Network Virtual Machine](https://test.ton.org/tvm.pdf) - TON Virtual Machine description
-- [Telegram Open Network Blockchain](https://test.ton.org/tblkch.pdf) - TON Blockchain description (possibly a bit out of date)
-- [Fift: A Brief Introduction](https://test.ton.org/fiftbase.pdf) - A brief introduction to Fift programming language
-- [README](https://test.ton.org/README.txt) -
-General information, compilation and installation instructions
-- [HOWTO](https://test.ton.org/HOWTO.txt) - Step-by-step description of creation of a new smart contract with the aid of the Lite Client
+- [List of available files](https://test.ton.org/download.html) – List of available files
+  - [Telegram Open Network Whitepaper](https://test.ton.org/ton.pdf) – a general description
+  - [Telegram Open Network Virtual Machine](https://test.ton.org/tvm.pdf) - TON Virtual Machine description
+  - [Telegram Open Network Blockchain](https://test.ton.org/tblkch.pdf) - TON Blockchain description (possibly a bit out of date)
+  - [Fift: A Brief Introduction](https://test.ton.org/fiftbase.pdf) - A brief introduction to Fift programming language
+  - [README](https://test.ton.org/README.txt) -
+  General information, compilation and installation instructions
+  - [HOWTO](https://test.ton.org/HOWTO.txt) - Step-by-step instructions for compiling and creating a simple smart contract (a simple wallet)
 
-### Misc
+### Community
 
-- [GitHub: copperbits/TON](https://github.com/copperbits/TON) - Telegram Open Network group of research enthusiasts. New community baked developers tools (Docker, Explorers, etc) releases will posted there.
-- [Telegram TON Research public group](https://t.me/ton_research) - with fan-developer updates about status of peoject and point to ask your quesitons.
+- [GitHub: copperbits/TON](https://github.com/copperbits/TON) - Telegram Open Network group of research enthusiasts. New community baked developers tools (Docker, Explorers, etc) releases will posted there
+- [Telegram TON Research public group](https://t.me/ton_research) - with fan-developer updates about status of peoject and point to ask your quesitons
 - [Bitcoinwiki](https://en.bitcoinwiki.org/wiki/TON) - Technical description
 - [Reddit](https://www.reddit.com/r/TelegramOpenNetwork/) - Fan community on reddit
 
@@ -52,9 +50,9 @@ General information, compilation and installation instructions
 - [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client by [@rstormsf (Roman Storm)](https://twitter.com/rstormsf)
 
 
-# Contribute
+## Contribute
 
-Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
+Pull requests are welcome! In the spirit of decentralized applications however.
 
 ## License
 
