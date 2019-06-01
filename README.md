@@ -55,6 +55,7 @@ A curated list of awesome TON ecosystem.
 ## Dev-ops tools
 
 - [Testnet status bot](https://t.me/testnetstatus) - Testnet health status checker telegram bot also will notify about the changes config file (https://test.ton.org/ton-lite-client-test1.config.json).
+- [TON mirror repo](https://github.com/poma/TON-mirror) - Updates on any changes in source code https://test.ton.org/download.
 
 ## Faucet
 
