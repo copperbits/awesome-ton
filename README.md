@@ -38,7 +38,6 @@ An awesome list about related to the Telegram Open Network (TON).
 - [GitHub: copperbits/TON](https://github.com/copperbits/TON) - Telegram Open Network group of research enthusiasts. New community baked developers tools (Docker, Explorers, etc) releases will posted there
 - [Telegram TON Research public group](https://t.me/ton_research) - with fan-developer updates about status of peoject and point to ask your quesitons
 - [Reddit](https://www.reddit.com/r/TelegramOpenNetwork/) - Fan community on reddit
-- [Testnet status bot](https://t.me/testnetstatus) - Testnet health status checker telegram bot also will notify about the changes config file (https://test.ton.org/ton-lite-client-test1.config.json).
 
 ## Tutorials
 
@@ -50,6 +49,10 @@ An awesome list about related to the Telegram Open Network (TON).
 
 - [TON explorer](https://explorer.test.ton.cryptoprocessing.io) - beta explorer for test network
 - [Open source TONexplorer](http://tonwatcher.com) - by @EmelyanenkoK
+
+## Dev-ops tools
+
+- [Testnet status bot](https://t.me/testnetstatus) - Testnet health status checker telegram bot also will notify about the changes config file (https://test.ton.org/ton-lite-client-test1.config.json).
 
 ## Faucet
 
