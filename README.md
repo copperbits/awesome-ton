@@ -50,6 +50,10 @@ An awesome list about related to the Telegram Open Network (TON).
 - [TON explorer](https://explorer.test.ton.cryptoprocessing.io) - beta explorer for test network
 - [Open source TONexplorer](http://tonwatcher.com) - by @EmelyanenkoK
 
+## Dev-ops tools
+
+- [Testnet status bot](https://t.me/testnetstatus) - Testnet health status checker telegram bot also will notify about the changes config file (https://test.ton.org/ton-lite-client-test1.config.json).
+
 ## Faucet
 
 - [Faucet for TON](https://faucet.copperbits.io) - UI friendly faucet to get test Grams
