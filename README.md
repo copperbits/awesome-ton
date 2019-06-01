@@ -10,8 +10,7 @@ A curated list of awesome TON ecosystem.
 
 
 - [TON Documentation](#ton-documentation)
-  - [Official](#official)
-  - [Community](#community)
+- [Community](#community)
 - [Tutorials](#tutorials)
 - [Block explorers](#block-explorers)
 - [Dev-ops tools](#dev-ops-tools)
@@ -26,8 +25,6 @@ A curated list of awesome TON ecosystem.
 
 ## TON Documentation
 
-### Official
-
 - [List of available files](https://test.ton.org/download.html) – List of available files.
   - [Telegram Open Network Whitepaper](https://test.ton.org/ton.pdf) – A general description.
   - [Telegram Open Network Virtual Machine](https://test.ton.org/tvm.pdf) - TON Virtual Machine description.
@@ -37,7 +34,7 @@ A curated list of awesome TON ecosystem.
   General information, compilation and installation instructions.
   - [HOWTO](https://test.ton.org/HOWTO.txt) - Step-by-step instructions for compiling and creating a simple smart contract (a simple wallet).
 
-### Community
+## Community
 
 - [GitHub: copperbits/TON](https://github.com/copperbits/TON) - Telegram Open Network group of research enthusiasts. New community baked developers tools (Docker, Explorers, etc) releases will posted there.
 - [Telegram TON Research public group](https://t.me/ton_research) - With fan-developer updates about status of peoject and point to ask your quesitons.
@@ -67,6 +64,8 @@ A curated list of awesome TON ecosystem.
 
 ## Articles
 - [Telegram Open Network (TON), Polkadot, Cosmos Network](https://medium.com/@buttonwallet/telegram-open-network-ton-polkadot-cosmos-network-future-of-blockchains-7b466b8f2e40) - Review by Button wallet.
+- [TON code review](https://medium.com/@nikitakolmogorov/ton-code-review-fd7ba036626b) - Review by Nikita Kolmogorov.
+
 
 ## Wiki
 
