@@ -1,24 +1,28 @@
-# Awesome Telegram Open Network (TON)
+# Awesome TON (Telegram Open Network)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An awesome list about related to the Telegram Open Network (TON).
+A curated list of awesome TON ecosystem.
 
 ## Contents
 
-<!-- toc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 
 - [TON Documentation](#ton-documentation)
-  * [Official](#official)
-  * [Community](#community)
+  - [Official](#official)
+  - [Community](#community)
 - [Tutorials](#tutorials)
 - [Block explorers](#block-explorers)
+- [Dev-ops tools](#dev-ops-tools)
+- [Faucet](#faucet)
 - [Videos](#videos)
 - [Articles](#articles)
 - [Wiki](#wiki)
 - [Contribute](#contribute)
 - [License](#license)
 
-<!-- tocstop -->
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## TON Documentation
 
