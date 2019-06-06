@@ -77,6 +77,7 @@ A curated list of awesome TON ecosystem.
 ## Contribute
 
 Pull requests are welcome! In the spirit of decentralized applications however.
+Feel free to be a part of community, send your [PR to awesome-ton repo](https://github.com/copperbits/awesome-ton/edit/master/README.md) with related and usefull links to TON ecosystem! 👌
 
 ## License
 
