@@ -72,6 +72,10 @@ A curated list of awesome TON ecosystem.
 - [TON code review](https://medium.com/@nikitakolmogorov/ton-code-review-fd7ba036626b) - Review by Nikita Kolmogorov.
 
 
+## Fift language code samples
+- [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift. 
+
+
 ## Wiki
 
 - [Bitcoinwiki](https://en.bitcoinwiki.org/wiki/TON) - Wiki-based technical description.
