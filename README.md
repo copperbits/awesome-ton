@@ -38,9 +38,7 @@ A curated list of awesome TON ecosystem.
 
 - [GitHub: copperbits/TON](https://github.com/copperbits/TON) - Telegram Open Network group of research enthusiasts. New community baked developers tools (Docker, Explorers, etc) releases will posted there.
 - [Telegram TON Research public group](https://t.me/ton_research) - With fan-developer updates about status of peoject and point to ask your quesitons.
-- [Reddit](https://www.reddit.com/r/TelegramOpenNetwork/) - Fan community on reddit.
-- [TON Talk](https://tontalk.ru) - TON talk forum
-- [TON Talk Chat](https://t.me/tontalkru) - TON talk chat
+- [Telegram chat in Russian](https://t.me/TONgramDev)
 
 ## Tutorials
 
