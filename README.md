@@ -51,11 +51,11 @@ A curated list of awesome TON ecosystem.
 
 ## Dev-ops tools
 
-- [TON mirror repo](https://github.com/poma/TON-mirror) - Updates on any changes in source code https://test.ton.org/download.
+- [TON mirror repo with updates builds binaries and docker container](https://github.com/poma/ton-lite-client) (former TON-mirror) - Updates on any changes in source code https://test.ton.org/download any 5 minutes.
 
 ## Telegram Bots
 - [@Gram 50 bot](https://t.me/gram50bot) - TON wallet. Allows to create wallet / sent transactions on testnet.
-- [Testnet status](https://t.me/testnetstatus) - Testnet health status checker telegram bot also will notify about the changes config file (https://test.ton.org/ton-lite-client-test1.config.json).
+- Telegram bot post message about updates to the [telegram channel](https://t.me/TrackingTONupdates) - with any new commits into original repo.
 
 ## Faucet
 
@@ -71,7 +71,7 @@ A curated list of awesome TON ecosystem.
 
 
 ## Fift language code samples
-- [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift. 
+- [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift.
 
 
 ## Wiki
