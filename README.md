@@ -5,8 +5,8 @@ A curated list of awesome TON ecosystem.
 
 ## Contents
 
-<!-- Use command "markdown-toc -i README.md" to update table of contents -->
-<!-- toc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [About source and github repositories](#about-source-and-github-repositories)
 - [TON Documentation](#ton-documentation)
@@ -23,7 +23,7 @@ A curated list of awesome TON ecosystem.
 - [Contribute](#contribute)
 - [License](#license)
 
-<!-- tocstop -->
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## About source and github repositories
 http://test.ton.org/downloads.html - is the "official"* ton client tarball
