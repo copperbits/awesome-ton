@@ -8,7 +8,7 @@ A curated list of awesome TON ecosystem.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [About source and GitHub repositories](#about-source-and-github-repositories)
+- [Original source codes and GitHub repo](#original-source-code-and-github-repo)
 - [TON Documentation](#ton-documentation)
 - [Community](#community)
 - [Tutorials](#tutorials)
@@ -25,8 +25,8 @@ A curated list of awesome TON ecosystem.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Source code and GitHub repo
-- [Source](http://test.ton.org/downloads.html) - is TON client tarball.
+## Original source codes and GitHub repo
+- [Original source codes](http://test.ton.org/downloads.html) - is TON client tarball.
 - [GitHub mirror](https://github.com/poma/ton-lite-client) - unchanged up to date version of tarball on GitHub. Also fresh binaries and docker container.
 - [Community version on GitHub](https://github.com/copperbits/TON) - community version with added features.
 
