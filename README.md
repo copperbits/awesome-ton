@@ -64,6 +64,7 @@ A curated list of awesome TON ecosystem.
 ## Videos
 
 - [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client by [@rstormsf](https://twitter.com/rstormsf)
+- [About TON](https://youtu.be/3O-jnS72gY4)
 
 ## Articles
 - [Telegram Open Network (TON), Polkadot, Cosmos Network](https://medium.com/@buttonwallet/telegram-open-network-ton-polkadot-cosmos-network-future-of-blockchains-7b466b8f2e40) - Review by Button wallet.
@@ -71,7 +72,7 @@ A curated list of awesome TON ecosystem.
 
 
 ## Fift language code samples
-- [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift. 
+- [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift.
 
 
 ## Wiki
