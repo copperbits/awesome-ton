@@ -8,7 +8,7 @@ A curated list of awesome TON ecosystem.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [About source and github repositories](#about-source-and-github-repositories)
+- [About source and GitHub repositories](#about-source-and-github-repositories)
 - [TON Documentation](#ton-documentation)
 - [Community](#community)
 - [Tutorials](#tutorials)
@@ -25,10 +25,10 @@ A curated list of awesome TON ecosystem.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## About source and github repositories
-http://test.ton.org/downloads.html - is the "official"* ton client tarball
-https://github.com/copperbits/TON - community version with added features but sometimes outdated code and releases
-https://github.com/poma/ton-lite-client - unchanged up to date version of tarball but on github. Also fresh binaries and docker container
+## About source and GitHub repositories
+- [Source](http://test.ton.org/downloads.html) - is the "official"* ton client tarball.
+- [Community version on GitHub](https://github.com/copperbits/TON) - community version with added features but sometimes outdated code and releases.
+- [Source mirror](https://github.com/poma/ton-lite-client) - unchanged up to date version of tarball but on GitHub. Also fresh binaries and docker container.
 
 \*There is no official statement that ton.org is related to TON network. But this is only one real source of information and code at this moment.
 
@@ -72,8 +72,8 @@ https://github.com/poma/ton-lite-client - unchanged up to date version of tarbal
 
 ## Videos
 
-- [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client by [@rstormsf](https://twitter.com/rstormsf)
-- [About TON](https://youtu.be/3O-jnS72gY4)
+- [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client by [@rstormsf](https://twitter.com/rstormsf).
+- [Telegram Open Network - TON (Promo Final Version)](https://youtu.be/3O-jnS72gY4) - Promo video about TON by DeCenter.
 
 ## Articles
 - [Telegram Open Network (TON), Polkadot, Cosmos Network](https://medium.com/@buttonwallet/telegram-open-network-ton-polkadot-cosmos-network-future-of-blockchains-7b466b8f2e40) - Review by Button wallet.
