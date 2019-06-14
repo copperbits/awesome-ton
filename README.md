@@ -5,23 +5,32 @@ A curated list of awesome TON ecosystem.
 
 ## Contents
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- Use command "markdown-toc -i README.md" to update table of contents -->
+<!-- toc -->
 
-
+- [About source and github repositories](#about-source-and-github-repositories)
 - [TON Documentation](#ton-documentation)
 - [Community](#community)
 - [Tutorials](#tutorials)
 - [Block explorers](#block-explorers)
 - [Dev-ops tools](#dev-ops-tools)
+- [Telegram Bots](#telegram-bots)
 - [Faucet](#faucet)
 - [Videos](#videos)
 - [Articles](#articles)
+- [Fift language code samples](#fift-language-code-samples)
 - [Wiki](#wiki)
 - [Contribute](#contribute)
 - [License](#license)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- tocstop -->
+
+## About source and github repositories
+http://test.ton.org/downloads.html - is the "official"* ton client tarball
+https://github.com/copperbits/TON - community version with added features but sometimes outdated code and releases
+https://github.com/poma/ton-lite-client - unchanged up to date version of tarball but on github. Also fresh binaries and docker container
+
+\*There is no official statement that ton.org is related to TON network. But this is only one real source of information and code at this moment.
 
 ## TON Documentation
 
