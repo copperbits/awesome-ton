@@ -25,12 +25,10 @@ A curated list of awesome TON ecosystem.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## About source and GitHub repositories
-- [Source](http://test.ton.org/downloads.html) - is the "official"* ton client tarball.
-- [Community version on GitHub](https://github.com/copperbits/TON) - community version with added features but sometimes outdated code and releases.
-- [Source mirror](https://github.com/poma/ton-lite-client) - unchanged up to date version of tarball but on GitHub. Also fresh binaries and docker container.
-
-\*There is no official statement that ton.org is related to TON network. But this is only one real source of information and code at this moment.
+## Source code and GitHub repo
+- [Source](http://test.ton.org/downloads.html) - is TON client tarball.
+- [GitHub mirror](https://github.com/poma/ton-lite-client) - unchanged up to date version of tarball on GitHub. Also fresh binaries and docker container.
+- [Community version on GitHub](https://github.com/copperbits/TON) - community version with added features.
 
 ## TON Documentation
 
