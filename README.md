@@ -62,6 +62,8 @@ A curated list of awesome TON ecosystem.
 ## Telegram Bots
 - [@Gram 50 bot](https://t.me/gram50bot) - TON wallet. Allows to create wallet / sent transactions on testnet.
 - Telegram bot post message about updates to the [telegram channel](https://t.me/TrackingTONupdates) - with any new commits into original repo.
+- [@testnetstatus](https://t.me/testnetstatus) - Telegram channel that displays if the testnet is up or down.
+
 
 ## Faucet
 
