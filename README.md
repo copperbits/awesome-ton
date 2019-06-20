@@ -57,13 +57,15 @@ A curated list of awesome TON ecosystem.
 
 ## Dev-ops tools
 
-- [TON mirror repo](https://github.com/poma/TON-mirror) - Updates on any changes in source code https://test.ton.org/download.
 - [Webserver](https://github.com/copperbits/TON/blob/master/docs/WEB_SERVER.md) which realizes a web client for TON
 - [Public node](https://explorer.test.ton.cryptoprocessing.io/api) of web client for TON
 
 ## Telegram Bots
+
 - [@Gram 50 bot](https://t.me/gram50bot) - TON wallet. Allows to create wallet / sent transactions on testnet.
-- [Testnet status](https://t.me/testnetstatus) - Testnet health status checker telegram bot also will notify about the changes config file (https://test.ton.org/ton-lite-client-test1.config.json).
+- Telegram bot post message about updates to the [telegram channel](https://t.me/TrackingTONupdates) - with any new commits into original repo.
+- [@testnetstatus](https://t.me/testnetstatus) - Telegram channel that displays if the testnet is up or down.
+
 
 ## Faucet
 
@@ -77,6 +79,7 @@ A curated list of awesome TON ecosystem.
 ## Articles
 - [Telegram Open Network (TON), Polkadot, Cosmos Network](https://medium.com/@buttonwallet/telegram-open-network-ton-polkadot-cosmos-network-future-of-blockchains-7b466b8f2e40) - Review by Button wallet.
 - [TON code review](https://medium.com/@nikitakolmogorov/ton-code-review-fd7ba036626b) - Review by Nikita Kolmogorov.
+- [TON scaling & decentralisationreview](https://medium.com/@Claudio_Weck/for-geeks-telegram-open-network-does-it-scale-decentralise-ecc3225967e3) - Review by Claudio Weck.
 
 ## Non-English resources
 - Chinese
