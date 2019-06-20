@@ -8,20 +8,27 @@ A curated list of awesome TON ecosystem.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
+- [Original source codes and GitHub repo](#original-source-code-and-github-repo)
 - [TON Documentation](#ton-documentation)
 - [Community](#community)
 - [Tutorials](#tutorials)
 - [Block explorers](#block-explorers)
 - [Dev-ops tools](#dev-ops-tools)
+- [Telegram Bots](#telegram-bots)
 - [Faucet](#faucet)
 - [Videos](#videos)
 - [Articles](#articles)
+- [Fift language code samples](#fift-language-code-samples)
 - [Wiki](#wiki)
 - [Contribute](#contribute)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Original source codes and GitHub repo
+- [Original source codes](http://test.ton.org/downloads.html) - is TON client tarball.
+- [GitHub mirror](https://github.com/poma/ton-lite-client) - unchanged up to date version of tarball on GitHub. Also fresh binaries and docker container.
+- [Community version on GitHub](https://github.com/copperbits/TON) - community version with added features.
 
 ## TON Documentation
 
@@ -36,7 +43,6 @@ A curated list of awesome TON ecosystem.
 
 ## Community
 
-- [GitHub: copperbits/TON](https://github.com/copperbits/TON) - Telegram Open Network group of research enthusiasts. New community baked developers tools (Docker, Explorers, etc) releases will posted there.
 - [Telegram TON Research public group](https://t.me/ton_research) - With fan-developer updates about status of peoject and point to ask your quesitons.
 - [Telegram chat in Russian](https://t.me/TONgramDev)
 
@@ -51,11 +57,13 @@ A curated list of awesome TON ecosystem.
 
 ## Dev-ops tools
 
-- [TON mirror repo](https://github.com/poma/TON-mirror) - Updates on any changes in source code https://test.ton.org/download.
+- [TON mirror repo with updates builds binaries and docker container](https://github.com/poma/ton-lite-client) (former TON-mirror) - Updates on any changes in source code https://test.ton.org/download any 5 minutes.
 
 ## Telegram Bots
 - [@Gram 50 bot](https://t.me/gram50bot) - TON wallet. Allows to create wallet / sent transactions on testnet.
-- [Testnet status](https://t.me/testnetstatus) - Testnet health status checker telegram bot also will notify about the changes config file (https://test.ton.org/ton-lite-client-test1.config.json).
+- Telegram bot post message about updates to the [telegram channel](https://t.me/TrackingTONupdates) - with any new commits into original repo.
+- [@testnetstatus](https://t.me/testnetstatus) - Telegram channel that displays if the testnet is up or down.
+
 
 ## Faucet
 
@@ -63,15 +71,17 @@ A curated list of awesome TON ecosystem.
 
 ## Videos
 
-- [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client by [@rstormsf](https://twitter.com/rstormsf)
+- [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client by [@rstormsf](https://twitter.com/rstormsf).
+- [Telegram Open Network - TON (Promo Final Version)](https://youtu.be/3O-jnS72gY4) - Promo video about TON by DeCenter.
 
 ## Articles
 - [Telegram Open Network (TON), Polkadot, Cosmos Network](https://medium.com/@buttonwallet/telegram-open-network-ton-polkadot-cosmos-network-future-of-blockchains-7b466b8f2e40) - Review by Button wallet.
 - [TON code review](https://medium.com/@nikitakolmogorov/ton-code-review-fd7ba036626b) - Review by Nikita Kolmogorov.
+- [TON scaling & decentralisationreview](https://medium.com/@Claudio_Weck/for-geeks-telegram-open-network-does-it-scale-decentralise-ecc3225967e3) - Review by Claudio Weck.
 
 
 ## Fift language code samples
-- [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift. 
+- [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift.
 
 
 ## Wiki
