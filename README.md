@@ -18,7 +18,7 @@ A curated list of awesome TON ecosystem.
 - [Faucet](#faucet)
 - [Videos](#videos)
 - [Articles](#articles)
-- [Non-English resources](#non-english-resources)
+- [Local resources](#local-resources)
 - [Fift language code samples](#fift-language-code-samples)
 - [Wiki](#wiki)
 - [Contribute](#contribute)
@@ -81,7 +81,7 @@ A curated list of awesome TON ecosystem.
 - [TON code review](https://medium.com/@nikitakolmogorov/ton-code-review-fd7ba036626b) - Review by Nikita Kolmogorov.
 - [TON scaling & decentralisationreview](https://medium.com/@Claudio_Weck/for-geeks-telegram-open-network-does-it-scale-decentralise-ecc3225967e3) - Review by Claudio Weck.
 
-## Non-English resources
+## Local resources
 - Chinese
   - [Telegram（电报）中文版白皮书](https://mp.weixin.qq.com/s/WLlD088acBDfjUM4bCEd0A) - article about the TON in Chinese by toozWu
   - [TON whitepaper into Сhinese](https://drive.google.com/file/d/1acH4j7zY_XhsOUGsup4byssMXlp5000O/view) - (in progress) by toozWu
