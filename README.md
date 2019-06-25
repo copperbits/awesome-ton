@@ -18,6 +18,7 @@ A curated list of awesome TON ecosystem.
 - [Faucet](#faucet)
 - [Videos](#videos)
 - [Articles](#articles)
+- [Local resources](#local-resources)
 - [Fift language code samples](#fift-language-code-samples)
 - [Wiki](#wiki)
 - [Contribute](#contribute)
@@ -44,7 +45,6 @@ A curated list of awesome TON ecosystem.
 ## Community
 
 - [Telegram TON Research public group](https://t.me/ton_research) - With fan-developer updates about status of peoject and point to ask your quesitons.
-- [Telegram chat in Russian](https://t.me/TONgramDev)
 
 ## Tutorials
 
@@ -53,13 +53,15 @@ A curated list of awesome TON ecosystem.
 ## Block explorers
 
 - [TON explorer](https://explorer.test.ton.cryptoprocessing.io) - beta explorer for test network
-- [Open source TONexplorer](http://tonwatcher.com) - by @EmelyanenkoK
+- [Open source TON explorer](http://tonwatcher.com) - by @EmelyanenkoK
 
 ## Dev-ops tools
 
-- [TON mirror repo with updates builds binaries and docker container](https://github.com/poma/ton-lite-client) (former TON-mirror) - Updates on any changes in source code https://test.ton.org/download any 5 minutes.
+- [Webserver](https://github.com/copperbits/TON/blob/master/docs/WEB_SERVER.md) which realizes a web client for TON
+- [Public node](https://explorer.test.ton.cryptoprocessing.io/api) of web client for TON
 
 ## Telegram Bots
+
 - [@Gram 50 bot](https://t.me/gram50bot) - TON wallet. Allows to create wallet / sent transactions on testnet.
 - Telegram bot post message about updates to the [telegram channel](https://t.me/TrackingTONupdates) - with any new commits into original repo.
 - [@testnetstatus](https://t.me/testnetstatus) - Telegram channel that displays if the testnet is up or down.
@@ -79,6 +81,12 @@ A curated list of awesome TON ecosystem.
 - [TON code review](https://medium.com/@nikitakolmogorov/ton-code-review-fd7ba036626b) - Review by Nikita Kolmogorov.
 - [TON scaling & decentralisationreview](https://medium.com/@Claudio_Weck/for-geeks-telegram-open-network-does-it-scale-decentralise-ecc3225967e3) - Review by Claudio Weck.
 
+## Local resources
+- Chinese
+  - [Telegram（电报）中文版白皮书](https://mp.weixin.qq.com/s/WLlD088acBDfjUM4bCEd0A) - article about the TON in Chinese by toozWu
+  - [TON whitepaper into Сhinese](https://drive.google.com/file/d/1acH4j7zY_XhsOUGsup4byssMXlp5000O/view) - (in progress) by toozWu
+- Russian
+  - [Telegram chat in Russian](https://t.me/TONgramDev)
 
 ## Fift language code samples
 - [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift.
@@ -90,8 +98,8 @@ A curated list of awesome TON ecosystem.
 
 ## Contribute
 
-Pull requests are welcome! In the spirit of decentralized applications however.
-Feel free to be a part of community, send your [PR to awesome-ton repo](https://github.com/copperbits/awesome-ton/edit/master/README.md) with related and usefull links to TON ecosystem! 👌
+Pull requests are welcome! In the spirit of decentralized applications, however.
+Feel free to be a part of community, send your [PR to awesome-ton repo](https://github.com/copperbits/awesome-ton/edit/master/README.md) with related and useful links to TON ecosystem! 👌
 
 ## License
 
