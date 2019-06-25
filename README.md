@@ -44,7 +44,7 @@ A curated list of awesome TON ecosystem.
 
 ## Community
 
-- [Telegram TON Research public group](https://t.me/ton_research) - With fan-developer updates about status of peoject and point to ask your quesitons.
+- [Telegram TON Research public group](tg://resolve?domain=ton_research) - With fan-developer updates about status of peoject and point to ask your quesitons.
 
 ## Tutorials
 
@@ -62,9 +62,9 @@ A curated list of awesome TON ecosystem.
 
 ## Telegram Bots
 
-- [@Gram 50 bot](https://t.me/gram50bot) - TON wallet. Allows to create wallet / sent transactions on testnet.
-- Telegram bot post message about updates to the [telegram channel](https://t.me/TrackingTONupdates) - with any new commits into original repo.
-- [@testnetstatus](https://t.me/testnetstatus) - Telegram channel that displays if the testnet is up or down.
+- [Telegram bot @Gram 50 bot](tg://resolve?domain=gram50bot) - TON wallet. Allows to create wallet / sent transactions on testnet
+- [Telegram channel @TrackingTONupdates](tg://resolve?domain=TrackingTONupdates) - with post message from bot about any new commits into original repo
+- [Telegram channel @testnetstatus](tg://resolve?domain=testnetstatus) - Telegram channel that displays if the testnet is up or down
 
 
 ## Faucet
@@ -86,7 +86,7 @@ A curated list of awesome TON ecosystem.
   - [Telegram（电报）中文版白皮书](https://mp.weixin.qq.com/s/WLlD088acBDfjUM4bCEd0A) - article about the TON in Chinese by toozWu
   - [TON whitepaper into Сhinese](https://drive.google.com/file/d/1acH4j7zY_XhsOUGsup4byssMXlp5000O/view) - (in progress) by toozWu
 - Russian
-  - [Telegram chat in Russian](https://t.me/TONgramDev)
+  - [Telegram chat in Russian](tg://resolve?domain=TONgramDev)
 
 ## Fift language code samples
 - [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift.
