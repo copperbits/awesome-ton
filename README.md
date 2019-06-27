@@ -18,7 +18,11 @@ A curated list of awesome TON ecosystem.
 - [Faucet](#faucet)
 - [Videos](#videos)
 - [Articles](#articles)
+  - [Chinese](#chinese)
+  - [Russian](#russian)
 - [Local resources](#local-resources)
+  - [Chinese](#chinese)
+  - [Russian](#russian)
 - [Fift language code samples](#fift-language-code-samples)
 - [Wiki](#wiki)
 - [Contribute](#contribute)
@@ -77,16 +81,22 @@ A curated list of awesome TON ecosystem.
 - [Telegram Open Network - TON (Promo Final Version)](https://youtu.be/3O-jnS72gY4) - Promo video about TON by DeCenter.
 
 ## Articles
+### English
 - [Telegram Open Network (TON), Polkadot, Cosmos Network](https://medium.com/@buttonwallet/telegram-open-network-ton-polkadot-cosmos-network-future-of-blockchains-7b466b8f2e40) - Review by Button wallet.
 - [TON code review](https://medium.com/@nikitakolmogorov/ton-code-review-fd7ba036626b) - Review by Nikita Kolmogorov.
 - [TON scaling & decentralisationreview](https://medium.com/@Claudio_Weck/for-geeks-telegram-open-network-does-it-scale-decentralise-ecc3225967e3) - Review by Claudio Weck.
+### Chinese
+- [Telegram（电报）中文版白皮书](https://mp.weixin.qq.com/s/WLlD088acBDfjUM4bCEd0A) - article about the TON in Chinese by toozWu
+### Russian
+- [Тестовый клиент TON (Telegram Open Network) и новый язык Fift для смарт-контрактов](https://habr.com/ru/post/453714/) - by deNULL, May 27, 2019
 
 ## Local resources
-- Chinese
-  - [Telegram（电报）中文版白皮书](https://mp.weixin.qq.com/s/WLlD088acBDfjUM4bCEd0A) - article about the TON in Chinese by toozWu
-  - [TON whitepaper into Сhinese](https://drive.google.com/file/d/1acH4j7zY_XhsOUGsup4byssMXlp5000O/view) - (in progress) by toozWu
-- Russian
-  - [Telegram chat in Russian](https://t.me/TONgramDev)
+### Chinese
+- [TON whitepaper into Сhinese](https://drive.google.com/file/d/1acH4j7zY_XhsOUGsup4byssMXlp5000O/view) - (in progress) by toozWu
+### Russian
+- [TONgramDev](https://t.me/TONgramDev) - Russian Telegram chat
+- [Tgram 🔜 TON GRAM (Telegram Open Network)](https://t.me/Tgram) - TON news in Russian
+
 
 ## Fift language code samples
 - [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift.
