@@ -48,7 +48,7 @@ A curated list of awesome TON ecosystem.
 
 ## Community
 
-- [Telegram TON Research public group](https://t.me/ton_research) - With fan-developer updates about status of peoject and point to ask your quesitons.
+- [Telegram TON Research public group](https://t.me/ton_research) - With fan-developer updates about status of peoject and point to ask your quesitons (03.07.2019: 302 members).
 
 ## Tutorials
 
@@ -56,19 +56,18 @@ A curated list of awesome TON ecosystem.
 
 ## Block explorers
 
-- [TON explorer](https://explorer.test.ton.cryptoprocessing.io) - beta explorer for test network
-- [Open source TON explorer](http://tonwatcher.com) - by @EmelyanenkoK
+- [TON explorer](https://explorer.test.ton.cryptoprocessing.io) - beta explorer for test network.
+- [Open source TON explorer](http://tonwatcher.com) - by @EmelyanenkoK.
 
 ## Dev-ops tools
 
-- [Webserver](https://github.com/copperbits/TON/blob/master/docs/WEB_SERVER.md) which realizes a web client for TON
-- [Public node](https://explorer.test.ton.cryptoprocessing.io/api) of web client for TON
+- [Webserver](https://github.com/copperbits/TON/blob/master/docs/WEB_SERVER.md) which realizes a web client for TON.
+- [Public node](https://explorer.test.ton.cryptoprocessing.io/api) of web client for TON.
 
 ## Telegram Bots
 
 - [@Gram 50 bot](https://t.me/gram50bot) - TON wallet. Allows to create wallet / sent transactions on testnet.
-- Telegram bot post message about updates to the [telegram channel](https://t.me/TrackingTONupdates) - with any new commits into original repo.
-- [@testnetstatus](https://t.me/testnetstatus) - Telegram channel that displays if the testnet is up or down.
+- [@TrackingTONupdates](https://t.me/TrackingTONupdates) - Telegram bot post message there about any new commits into original repo (03.07.2019: 27 members).
 
 
 ## Faucet
@@ -86,21 +85,20 @@ A curated list of awesome TON ecosystem.
 - [TON code review](https://medium.com/@nikitakolmogorov/ton-code-review-fd7ba036626b) - Review by Nikita Kolmogorov.
 - [TON scaling & decentralisationreview](https://medium.com/@Claudio_Weck/for-geeks-telegram-open-network-does-it-scale-decentralise-ecc3225967e3) - Review by Claudio Weck.
 ### Chinese
-- [Telegram（电报）中文版白皮书](https://mp.weixin.qq.com/s/WLlD088acBDfjUM4bCEd0A) - article about the TON in Chinese by toozWu
+- [Telegram（电报）中文版白皮书](https://mp.weixin.qq.com/s/WLlD088acBDfjUM4bCEd0A) - article about the TON in Chinese by toozWu.
 ### Russian
-- [Тестовый клиент TON (Telegram Open Network) и новый язык Fift для смарт-контрактов](https://habr.com/ru/post/453714/) - by deNULL, May 27, 2019
+- [Тестовый клиент TON (Telegram Open Network) и новый язык Fift для смарт-контрактов](https://habr.com/ru/post/453714/) - by deNULL, May 27, 2019.
 
 ## Local resources
 ### Chinese
-- [TON whitepaper into Сhinese](https://drive.google.com/file/d/1acH4j7zY_XhsOUGsup4byssMXlp5000O/view) - (in progress) by toozWu
+- [TON whitepaper into Сhinese](https://drive.google.com/file/d/1acH4j7zY_XhsOUGsup4byssMXlp5000O/view) - (in progress) by toozWu.
 ### Russian
-- [TONgramDev](https://t.me/TONgramDev) - Russian Telegram chat
-- [Tgram 🔜 TON GRAM (Telegram Open Network)](https://t.me/Tgram) - TON news in Russian
+- [TONgramDev](https://t.me/TONgramDev) - Russian Telegram chat (03.07.2019: 96 members).
+- [Tgram 🔜 TON GRAM (Telegram Open Network)](https://t.me/Tgram) - TON news in Russian  (03.07.2019: 137 047 members).
 
 
 ## Fift language code samples
 - [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift.
-
 
 ## Wiki
 
