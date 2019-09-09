@@ -38,9 +38,9 @@ A curated list of awesome TON ecosystem.
 - [GitHub mirror](https://github.com/poma/ton-lite-client) - unchanged up to date version of tarball on GitHub. Also fresh binaries and docker container.
 - [Community version on GitHub](https://github.com/copperbits/TON) - community version with added features.
 
-## Community
+## Copperbits community
 
-- [Telegram TON Research public group](https://t.me/ton_research) - With fan-developer updates about status of peoject and point to ask your quesitons (03.07.2019: 302 members).
+- [Telegram TON Research public group](https://t.me/ton_research) - The main point to ask your questions from enthusiasts and developers
 
 ## Tutorials
 
@@ -61,7 +61,7 @@ A curated list of awesome TON ecosystem.
 
 - [@Gram 50 bot](https://t.me/gram50bot) - TON wallet. Allows to create wallet / sent transactions on testnet.
 - [@TrackingTONupdates](https://t.me/TrackingTONupdates) - Telegram bot post message there about any new commits into original repo (03.07.2019: 27 members).
-- [@buttonwalletbot](https://t.me/buttonwalletbot) - Telegram bot with integrate cryptocurrency, supports TON testnet iteractions. Haw own faucet for Grams.
+- [@buttonwalletbot](https://t.me/buttonwalletbot) - Telegram bot with integrate cryptocurrency, supports TON testnet interactions. Haw own faucet for Grams.
 
 
 ## Faucet
@@ -84,6 +84,9 @@ A curated list of awesome TON ecosystem.
 - [Тестовый клиент TON (Telegram Open Network) и новый язык Fift для смарт-контрактов](https://habr.com/ru/post/453714/) - by deNULL, May 27, 2019.
 
 ## Local resources
+### English
+- [TON Research](https://t.me/ton_research) - Developer driven updates about project. (09.09.2019: 493 members).
+
 ### Chinese
 - [TON whitepaper into Сhinese](https://drive.google.com/file/d/1acH4j7zY_XhsOUGsup4byssMXlp5000O/view) - (in progress) by toozWu.
 ### Russian
@@ -101,7 +104,7 @@ A curated list of awesome TON ecosystem.
 ## Contribute
 
 Pull requests are welcome! In the spirit of decentralized applications, however.
-Feel free to be a part of community, send your [PR to awesome-ton repo](https://github.com/copperbits/awesome-ton/edit/master/README.md) with related and useful links to TON ecosystem! 👌
+Feel free to be a part of the community, send your [PR to awesome-ton repo](https://github.com/copperbits/awesome-ton/edit/master/README.md) with related and useful links to TON ecosystem! 👌
 
 ## License
 
