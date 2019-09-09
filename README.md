@@ -7,7 +7,6 @@ A curated list of awesome TON ecosystem.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 - [Original source codes and GitHub repo](#original-source-code-and-github-repo)
 - [TON Documentation](#ton-documentation)
 - [Community](#community)
@@ -31,21 +30,13 @@ A curated list of awesome TON ecosystem.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Original source codes and GitHub repo
+- [TON Documentation](https://test.ton.org) - TON Blockchain Test Network — files and resources
+- [ton.org mirror](https://github.com/poma/ton-lite-client) - GitHub mirror with changes history from test.ton.org
+- [ton-blockchain/ton](https://github.com/ton-blockchain/ton) - GitHub repository linked from ton.org
 - [Blockchain explorer](https://test.ton.org/testnet/) - Simple blockchain explorer for the TON Blockchain Test Network (testnet)
 - [Original source codes](http://test.ton.org/downloads.html) - is TON client tarball.
 - [GitHub mirror](https://github.com/poma/ton-lite-client) - unchanged up to date version of tarball on GitHub. Also fresh binaries and docker container.
 - [Community version on GitHub](https://github.com/copperbits/TON) - community version with added features.
-
-## TON Documentation
-
-- [List of available files](https://test.ton.org/download.html) – List of available files.
-  - [Telegram Open Network Whitepaper](https://test.ton.org/ton.pdf) – A general description.
-  - [Telegram Open Network Virtual Machine](https://test.ton.org/tvm.pdf) - TON Virtual Machine description.
-  - [Telegram Open Network Blockchain](https://test.ton.org/tblkch.pdf) - TON Blockchain description (possibly a bit out of date).
-  - [Fift: A Brief Introduction](https://test.ton.org/fiftbase.pdf) - A brief introduction to Fift programming language.
-  - [README](https://test.ton.org/README.txt) -
-  General information, compilation and installation instructions.
-  - [HOWTO](https://test.ton.org/HOWTO.txt) - Step-by-step instructions for compiling and creating a simple smart contract (a simple wallet).
 
 ## Community
 
