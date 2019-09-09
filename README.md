@@ -8,8 +8,9 @@ A curated list of awesome TON ecosystem.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 - [Original source codes and GitHub repo](#original-source-code-and-github-repo)
-- [TON Documentation](#ton-documentation)
-- [Community](#community)
+
+- [Original source codes and GitHub repo](#original-source-codes-and-github-repo)
+- [Copperbits community](#copperbits-community)
 - [Tutorials](#tutorials)
 - [Block explorers](#block-explorers)
 - [Dev-ops tools](#dev-ops-tools)
@@ -17,11 +18,13 @@ A curated list of awesome TON ecosystem.
 - [Faucet](#faucet)
 - [Videos](#videos)
 - [Articles](#articles)
+  - [English](#english)
   - [Chinese](#chinese)
   - [Russian](#russian)
 - [Local resources](#local-resources)
-  - [Chinese](#chinese)
-  - [Russian](#russian)
+  - [English](#english-1)
+  - [Chinese](#chinese-1)
+  - [Russian](#russian-1)
 - [Fift language code samples](#fift-language-code-samples)
 - [Wiki](#wiki)
 - [Contribute](#contribute)
