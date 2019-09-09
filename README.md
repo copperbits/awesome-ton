@@ -31,6 +31,7 @@ A curated list of awesome TON ecosystem.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Original source codes and GitHub repo
+- [Blockchain explorer](https://test.ton.org/testnet/) - Simple blockchain explorer for the TON Blockchain Test Network (testnet)
 - [Original source codes](http://test.ton.org/downloads.html) - is TON client tarball.
 - [GitHub mirror](https://github.com/poma/ton-lite-client) - unchanged up to date version of tarball on GitHub. Also fresh binaries and docker container.
 - [Community version on GitHub](https://github.com/copperbits/TON) - community version with added features.
@@ -55,7 +56,7 @@ A curated list of awesome TON ecosystem.
 - [ubuntu16.04.sh](https://github.com/copperbits/TON/blob/master/docs/ubuntu16.04.sh) - Build instructions for ubuntu 16.04.
 
 ## Block explorers
-
+- [Blockchain explorer (ton.org)](https://test.ton.org/testnet/) - Simple blockchain explorer for the TON Blockchain Test Network (testnet)
 - [TON explorer](https://explorer.test.ton.cryptoprocessing.io) - beta explorer for test network.
 - [Open source TON explorer](http://tonwatcher.com) - by @EmelyanenkoK.
 
