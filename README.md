@@ -39,60 +39,46 @@ A curated list of awesome TON ecosystem.
 - [GitHub mirror](https://github.com/poma/ton-lite-client) - unchanged up to date version of tarball on GitHub. Also fresh binaries and docker container.
 - [Community version on GitHub](https://github.com/copperbits/TON) - community version with added features.
 
-## Copperbits community
-
-- [Telegram TON Research public group](https://t.me/ton_research) - The main point to ask your questions from enthusiasts and developers
 
 ## Tutorials
 
 - [ubuntu16.04.sh](https://github.com/copperbits/TON/blob/master/docs/ubuntu16.04.sh) - Build instructions for ubuntu 16.04.
 
-## Block explorers
+## Block explorers & Dev-ops tools
+- [TON Labs Node SE](https://ton.dev/node-se) - SDK that contains a Compiler Kit and Client Libraries
 - [Blockchain explorer (ton.org)](https://test.ton.org/testnet/) - Simple blockchain explorer for the TON Blockchain Test Network (testnet)
-- [TON explorer](https://explorer.test.ton.cryptoprocessing.io) - beta explorer for test network.
-- [Open source TON explorer](http://tonwatcher.com) - by @EmelyanenkoK.
-
-## Dev-ops tools
-- [TON Labs Node SE](https://ton.dev/node-se) - TON Labs SDK that contains a Compiler Kit and Client Libraries
-- [Webserver](https://github.com/copperbits/TON/blob/master/docs/WEB_SERVER.md) - Realizes a web client for TON.
+- [TON explorer](https://explorer.test.ton.cryptoprocessing.io) - beta explorer for test network
+- [Open source TON explorer](http://tonwatcher.com) - explorer by @EmelyanenkoK
+- [Webserver](https://github.com/copperbits/TON/blob/master/docs/WEB_SERVER.md) - Realizes a web client for TON
 - [Public node](https://explorer.test.ton.cryptoprocessing.io/api) - Web client for TON.
 - [Fullnode in docker](https://github.com/akme/ton-node) - Dockerfile for Telegram Open Network Node
 
-## Telegram Bots
+## Telegram Bots and Faucets
 
-- [@Gram 50 bot](https://t.me/gram50bot) - TON wallet. Allows to create wallet / sent transactions on testnet.
+- [@Gram 50 bot](https://t.me/gram50bot) - TON bot wallet with faucet. Allows to create wallet / sent transactions on testnet.
+- [@buttonwalletbot](https://t.me/buttonwalletbot) - Telegram bot with integrate cryptocurrency, supports TON testnet interactions. Has own faucet for Grams.
 - [@TrackingTONupdates](https://t.me/TrackingTONupdates) - Telegram bot post message there about any new commits into original repo (03.07.2019: 27 members).
-- [@buttonwalletbot](https://t.me/buttonwalletbot) - Telegram bot with integrate cryptocurrency, supports TON testnet interactions. Haw own faucet for Grams.
-
-
-## Faucet
-
 - [Faucet for TON](https://faucet.copperbits.io) - UI friendly faucet to get test Grams.
 
-## Videos
+## Articles & Videos
 
-- [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client by [@rstormsf](https://twitter.com/rstormsf).
-- [Telegram Open Network - TON (Promo Final Version)](https://youtu.be/3O-jnS72gY4) - Promo video about TON by DeCenter.
-
-## Articles
 ### English
 - [Telegram Open Network (TON), Polkadot, Cosmos Network](https://medium.com/@buttonwallet/telegram-open-network-ton-polkadot-cosmos-network-future-of-blockchains-7b466b8f2e40) - Review by Button wallet.
 - [TON code review](https://medium.com/@nikitakolmogorov/ton-code-review-fd7ba036626b) - Review by Nikita Kolmogorov.
 - [TON scaling & decentralisationreview](https://medium.com/@Claudio_Weck/for-geeks-telegram-open-network-does-it-scale-decentralise-ecc3225967e3) - Review by Claudio Weck.
-### Chinese
-- [Telegram（电报）中文版白皮书](https://mp.weixin.qq.com/s/WLlD088acBDfjUM4bCEd0A) - article about the TON in Chinese by toozWu.
-### Russian
-- [Тестовый клиент TON (Telegram Open Network) и новый язык Fift для смарт-контрактов](https://habr.com/ru/post/453714/) - by deNULL, May 27, 2019.
+- [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client by [@rstormsf](https://twitter.com/rstormsf).
+- [Telegram Open Network - TON (Promo Final Version)](https://youtu.be/3O-jnS72gY4) - Promo video about TON by DeCenter
 
-## Local resources
-### English
-- [TON Research](https://t.me/ton_research) - Developer driven updates about project. (09.09.2019: 493 members).
+- [(Chinese)Telegram（电报）中文版白皮书](https://mp.weixin.qq.com/s/WLlD088acBDfjUM4bCEd0A) - article about the TON in Chinese by toozWu.
 
-### Chinese
-- [TON whitepaper into Сhinese](https://drive.google.com/file/d/1acH4j7zY_XhsOUGsup4byssMXlp5000O/view) - (in progress) by toozWu.
-### Russian
-- [TONgramDev](https://t.me/TONgramDev) - Russian Telegram chat (03.07.2019: 96 members).
+- [(Russian) Тестовый клиент TON (Telegram Open Network) и новый язык Fift для смарт-контрактов](https://habr.com/ru/post/453714/) - by deNULL, May 27, 2019.
+
+## Local resources & Community
+
+- [Copperbits community: TON Research (English)](https://t.me/ton_research) - Developer driven updates about project. (09.09.2019: 493 members)
+- [(Russian) TONgramDev](https://t.me/TONgramDev) - Russian Telegram chat (03.07.2019: 96 members).
 - [Tgram 🔜 TON GRAM (Telegram Open Network)](https://t.me/Tgram) - TON news in Russian  (03.07.2019: 137 047 members).
+- [(Chinese) TON whitepaper into Сhinese](https://drive.google.com/file/d/1acH4j7zY_XhsOUGsup4byssMXlp5000O/view) - (in progress) by toozWu.
 
 
 ## Fift language code samples
