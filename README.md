@@ -8,23 +8,14 @@ A curated list of awesome TON ecosystem.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 - [Original source codes and GitHub repo](#original-source-codes-and-github-repo)
-- [Copperbits community](#copperbits-community)
+
+- [Original source codes and GitHub repo](#original-source-codes-and-github-repo)
 - [Tutorials](#tutorials)
-- [Block explorers](#block-explorers)
-- [Dev-ops tools](#dev-ops-tools)
-- [Telegram Bots](#telegram-bots)
-- [Faucet](#faucet)
-- [Videos](#videos)
-- [Articles](#articles)
+- [Block explorers & Dev-ops tools](#block-explorers--dev-ops-tools)
+- [Telegram Bots and Faucets](#telegram-bots-and-faucets)
+- [Articles & Videos](#articles--videos)
   - [English](#english)
-  - [Chinese](#chinese)
-  - [Russian](#russian)
-- [Local resources](#local-resources)
-  - [English](#english-1)
-  - [Chinese](#chinese-1)
-  - [Russian](#russian-1)
-- [Fift language code samples](#fift-language-code-samples)
-- [Wiki](#wiki)
+- [Local resources & Community](#local-resources--community)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -43,6 +34,7 @@ A curated list of awesome TON ecosystem.
 ## Tutorials
 
 - [ubuntu16.04.sh](https://github.com/copperbits/TON/blob/master/docs/ubuntu16.04.sh) - Build instructions for ubuntu 16.04.
+- [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift.
 
 ## Block explorers & Dev-ops tools
 - [TON Labs Node SE](https://ton.dev/node-se) - SDK that contains a Compiler Kit and Client Libraries
@@ -52,6 +44,7 @@ A curated list of awesome TON ecosystem.
 - [Webserver](https://github.com/copperbits/TON/blob/master/docs/WEB_SERVER.md) - Realizes a web client for TON
 - [Public node](https://explorer.test.ton.cryptoprocessing.io/api) - Web client for TON.
 - [Fullnode in docker](https://github.com/akme/ton-node) - Dockerfile for Telegram Open Network Node
+
 
 ## Telegram Bots and Faucets
 
@@ -79,13 +72,6 @@ A curated list of awesome TON ecosystem.
 - [(Russian) TONgramDev](https://t.me/TONgramDev) - Russian Telegram chat (03.07.2019: 96 members).
 - [Tgram 🔜 TON GRAM (Telegram Open Network)](https://t.me/Tgram) - TON news in Russian  (03.07.2019: 137 047 members).
 - [(Chinese) TON whitepaper into Сhinese](https://drive.google.com/file/d/1acH4j7zY_XhsOUGsup4byssMXlp5000O/view) - (in progress) by toozWu.
-
-
-## Fift language code samples
-- [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift.
-
-## Wiki
-
 - [Bitcoinwiki](https://en.bitcoinwiki.org/wiki/TON) - Wiki-based technical description.
 
 ## Contribute
