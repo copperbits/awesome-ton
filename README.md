@@ -7,7 +7,7 @@ A curated list of awesome TON ecosystem.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-- [Original source codes and GitHub repo](#original-source-codes-and-github-repo)
+
 
 - [Original source codes and GitHub repo](#original-source-codes-and-github-repo)
 - [Tutorials](#tutorials)
@@ -22,6 +22,7 @@ A curated list of awesome TON ecosystem.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Original source codes and GitHub repo
+
 - [TON Documentation](https://test.ton.org) - TON Blockchain Test Network — files and resources
 - [ton.org mirror](https://github.com/poma/ton-lite-client) - GitHub mirror with changes history from test.ton.org
 - [ton-blockchain/ton](https://github.com/ton-blockchain/ton) - GitHub repository linked from ton.org
