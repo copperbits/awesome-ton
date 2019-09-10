@@ -7,8 +7,6 @@ A curated list of awesome TON ecosystem.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-- [Original source codes and GitHub repo](#original-source-code-and-github-repo)
-
 - [Original source codes and GitHub repo](#original-source-codes-and-github-repo)
 - [Copperbits community](#copperbits-community)
 - [Tutorials](#tutorials)
