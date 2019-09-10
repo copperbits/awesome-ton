@@ -55,7 +55,7 @@ A curated list of awesome TON ecosystem.
 - [Open source TON explorer](http://tonwatcher.com) - by @EmelyanenkoK.
 
 ## Dev-ops tools
-
+- [TON Labs Node SE](https://ton.dev/node-se) - TON Labs SDK that contains a Compiler Kit and Client Libraries
 - [Webserver](https://github.com/copperbits/TON/blob/master/docs/WEB_SERVER.md) - Realizes a web client for TON.
 - [Public node](https://explorer.test.ton.cryptoprocessing.io/api) - Web client for TON.
 - [Fullnode in docker](https://github.com/akme/ton-node) - Dockerfile for Telegram Open Network Node
