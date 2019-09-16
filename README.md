@@ -10,6 +10,7 @@ A curated list of awesome TON ecosystem.
 
 
 - [Original source codes and GitHub repo](#original-source-codes-and-github-repo)
+- [SDKs, Client Libraries and toolkits](#sdks-client-libraries-and-toolkits)
 - [Tutorials](#tutorials)
 - [Block explorers & Dev-ops tools](#block-explorers--dev-ops-tools)
 - [Telegram Bots and Faucets](#telegram-bots-and-faucets)
@@ -21,6 +22,7 @@ A curated list of awesome TON ecosystem.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+
 ## Original source codes and GitHub repo
 
 - [TON Documentation](https://test.ton.org) - TON Blockchain Test Network — files and resources
@@ -31,6 +33,11 @@ A curated list of awesome TON ecosystem.
 - [GitHub mirror](https://github.com/poma/ton-lite-client) - unchanged up to date version of tarball on GitHub. Also fresh binaries and docker container.
 - [Community version on GitHub](https://github.com/copperbits/TON) - community version with added features.
 
+
+## SDKs, Client Libraries and toolkits
+
+- [TON Python API client](https://github.com/formony/ton_client) - Python remote API client for [Telegram Open Network] blockchain
+- [TON API in Rust](https://github.com/tonlabs/ton-client-rs) - TON SDK Client Library for Rust
 
 ## Tutorials
 
