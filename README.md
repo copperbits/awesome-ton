@@ -15,8 +15,7 @@ A curated list of awesome TON ecosystem.
 - [Block explorers & Dev-ops tools](#block-explorers--dev-ops-tools)
 - [Telegram Bots and Faucets](#telegram-bots-and-faucets)
 - [Articles & Videos](#articles--videos)
-  - [English](#english)
-- [Local resources & Community](#local-resources--community)
+- [Community & Local resources](#community--local-resources)
 - [Contribute](#contribute)
 - [License](#license)
 
