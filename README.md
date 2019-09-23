@@ -83,6 +83,7 @@ A curated list of awesome TON ecosystem.
 - [Tgram 🔜 TON GRAM (Telegram Open Network)](https://t.me/Tgram) - TON news in Russian  (03.07.2019: 137 047 members).
 - [(Chinese) TON whitepaper into Сhinese](https://drive.google.com/file/d/1acH4j7zY_XhsOUGsup4byssMXlp5000O/view) - (in progress) by toozWu.
 - [Bitcoinwiki](https://en.bitcoinwiki.org/wiki/TON) - Wiki-based technical description.
+- [(Spanish) TON Es](https://t.me/ton_es) - Spanish Telegram chat (23.09.2019: 40 members).
 
 ## Contribute
 
