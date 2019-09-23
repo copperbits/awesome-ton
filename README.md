@@ -15,8 +15,7 @@ A curated list of awesome TON ecosystem.
 - [Block explorers & Dev-ops tools](#block-explorers--dev-ops-tools)
 - [Telegram Bots and Faucets](#telegram-bots-and-faucets)
 - [Articles & Videos](#articles--videos)
-  - [English](#english)
-- [Local resources & Community](#local-resources--community)
+- [Community & Local resources](#community--local-resources)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -63,7 +62,6 @@ A curated list of awesome TON ecosystem.
 
 ## Articles & Videos
 
-### English
 - [Telegram Open Network (TON), Polkadot, Cosmos Network](https://medium.com/@buttonwallet/telegram-open-network-ton-polkadot-cosmos-network-future-of-blockchains-7b466b8f2e40) - Review by Button wallet.
 - [TON code review](https://medium.com/@nikitakolmogorov/ton-code-review-fd7ba036626b) - Review by Nikita Kolmogorov.
 - [TON scaling & decentralisationreview](https://medium.com/@Claudio_Weck/for-geeks-telegram-open-network-does-it-scale-decentralise-ecc3225967e3) - Review by Claudio Weck.
@@ -76,10 +74,12 @@ A curated list of awesome TON ecosystem.
 
 - [(Spanish) Telegram Open Network(TON) News and more, Tecnonucleous](https://tecnonucleous.com/tag/ton/)
 
-## Local resources & Community
+## Community & Local resources
 
-- [Copperbits community: TON Research (English)](https://t.me/ton_research) - Developer driven updates about project. (09.09.2019: 493 members)
+- [(English) Copperbits community: TON Research](https://t.me/ton_research) - Developer driven updates about project. (09.09.2019: 493 members)
 - [(Russian) TONgramDev](https://t.me/TONgramDev) - Russian Telegram chat (03.07.2019: 96 members).
+- [(French) GRAM & TON FRANCE](https://t.me/gramfr) - Groupe d’échange sur blockchain TON et Crypto Gram en français (23.09.2019: 49 members). 
+- [(Spanish) TON Es](https://t.me/ton_es) - Spanish Telegram chat (23.09.2019: 44 members)
 - [Tgram 🔜 TON GRAM (Telegram Open Network)](https://t.me/Tgram) - TON news in Russian  (03.07.2019: 137 047 members).
 - [(Chinese) TON whitepaper into Сhinese](https://drive.google.com/file/d/1acH4j7zY_XhsOUGsup4byssMXlp5000O/view) - (in progress) by toozWu.
 - [Bitcoinwiki](https://en.bitcoinwiki.org/wiki/TON) - Wiki-based technical description.
