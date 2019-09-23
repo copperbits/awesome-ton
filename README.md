@@ -9,15 +9,17 @@ A curated list of awesome TON ecosystem.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Original source codes and GitHub repo](#original-source-codes-and-github-repo)
-- [SDKs, Client Libraries and toolkits](#sdks-client-libraries-and-toolkits)
-- [Tutorials](#tutorials)
-- [Block explorers & Dev-ops tools](#block-explorers--dev-ops-tools)
-- [Telegram Bots and Faucets](#telegram-bots-and-faucets)
-- [Articles & Videos](#articles--videos)
-- [Community & Local resources](#community--local-resources)
-- [Contribute](#contribute)
-- [License](#license)
+- [Awesome TON (Telegram Open Network)](#awesome-ton-telegram-open-network)
+  - [Contents](#contents)
+  - [Original source codes and GitHub repo](#original-source-codes-and-github-repo)
+  - [SDKs, Client Libraries and toolkits](#sdks-client-libraries-and-toolkits)
+  - [Tutorials](#tutorials)
+  - [Block explorers & Dev-ops tools](#block-explorers--dev-ops-tools)
+  - [Telegram Bots and Faucets](#telegram-bots-and-faucets)
+  - [Articles & Videos](#articles--videos)
+  - [Community & Local resources](#community--local-resources)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -67,23 +69,19 @@ A curated list of awesome TON ecosystem.
 - [TON scaling & decentralisationreview](https://medium.com/@Claudio_Weck/for-geeks-telegram-open-network-does-it-scale-decentralise-ecc3225967e3) - Review by Claudio Weck.
 - [Telegram Open Network Tutorial](https://www.youtube.com/watch?v=J7K2nq5lf7I&feature=youtu.be) - How to use light client by [@rstormsf](https://twitter.com/rstormsf).
 - [Telegram Open Network - TON (Promo Final Version)](https://youtu.be/3O-jnS72gY4) - Promo video about TON by DeCenter
-
-- [(Chinese)Telegram（电报）中文版白皮书](https://mp.weixin.qq.com/s/WLlD088acBDfjUM4bCEd0A) - article about the TON in Chinese by toozWu.
-
+- [(Chinese) Telegram（电报）中文版白皮书](https://mp.weixin.qq.com/s/WLlD088acBDfjUM4bCEd0A) - article about the TON in Chinese by toozWu.
 - [(Russian) Тестовый клиент TON (Telegram Open Network) и новый язык Fift для смарт-контрактов](https://habr.com/ru/post/453714/) - by deNULL, May 27, 2019.
-
 - [(Spanish) Telegram Open Network(TON) News and more, Tecnonucleous](https://tecnonucleous.com/tag/ton/)
 
 ## Community & Local resources
 
 - [(English) Copperbits community: TON Research](https://t.me/ton_research) - Developer driven updates about project. (09.09.2019: 493 members)
 - [(Russian) TONgramDev](https://t.me/TONgramDev) - Russian Telegram chat (03.07.2019: 96 members).
-- [(French) GRAM & TON FRANCE](https://t.me/gramfr) - Groupe d’échange sur blockchain TON et Crypto Gram en français (23.09.2019: 49 members). 
+- [(French) GRAM & TON FRANCE](https://t.me/gramfr) - Groupe d’échange sur blockchain TON et Crypto Gram en français (23.09.2019: 49 members).
 - [(Spanish) TON Es](https://t.me/ton_es) - Spanish Telegram chat (23.09.2019: 44 members)
 - [Tgram 🔜 TON GRAM (Telegram Open Network)](https://t.me/Tgram) - TON news in Russian  (03.07.2019: 137 047 members).
 - [(Chinese) TON whitepaper into Сhinese](https://drive.google.com/file/d/1acH4j7zY_XhsOUGsup4byssMXlp5000O/view) - (in progress) by toozWu.
 - [Bitcoinwiki](https://en.bitcoinwiki.org/wiki/TON) - Wiki-based technical description.
-- [(Spanish) TON Es](https://t.me/ton_es) - Spanish Telegram chat (23.09.2019: 40 members).
 
 ## Contribute
 
