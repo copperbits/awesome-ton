@@ -39,10 +39,11 @@ A curated list of awesome TON ecosystem.
 
 - [TON Python API client](https://github.com/formony/ton_client) - Python remote API client for [Telegram Open Network] blockchain
 - [TON API in Rust](https://github.com/tonlabs/ton-client-rs) - TON SDK Client Library for Rust
+- [Java wrapper for TON](https://github.com/broxus/ton-client) - Java wrapper for TON Client
 
 ## Tutorials
 
-- [ubuntu16.04.sh](https://github.com/copperbits/TON/blob/master/docs/ubuntu16.04.sh) - Build instructions for ubuntu 16.04.
+- [ubuntu16.04.sh](https://github.com/copperbits/TON/blob/master/docs/Copperbits_docs/ubuntu16.04.sh) - Build instructions for ubuntu 16.04.
 - [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift.
 
 ## Block explorers & Dev-ops tools
@@ -50,7 +51,7 @@ A curated list of awesome TON ecosystem.
 - [Blockchain explorer (ton.org)](https://test.ton.org/testnet/) - Simple blockchain explorer for the TON Blockchain Test Network (testnet)
 - [TON explorer](https://explorer.test.ton.cryptoprocessing.io) - beta explorer for test network
 - [Open source TON explorer](http://tonwatcher.com) - explorer by @EmelyanenkoK
-- [Webserver](https://github.com/copperbits/TON/blob/master/docs/WEB_SERVER.md) - Realizes a web client for TON
+- [Webserver](https://github.com/copperbits/TON/blob/master/docs/Copperbits_docs/WEB_SERVER.md) - Realizes a web client for TON
 - [Public node](https://explorer.test.ton.cryptoprocessing.io/api) - Web client for TON.
 - [Fullnode in docker](https://github.com/akme/ton-node) - Dockerfile for Telegram Open Network Node
 
