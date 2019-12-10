@@ -40,11 +40,13 @@ A curated list of awesome TON ecosystem.
 - [TON Python API client](https://github.com/formony/ton_client) - Python remote API client for [Telegram Open Network] blockchain
 - [TON API in Rust](https://github.com/tonlabs/ton-client-rs) - TON SDK Client Library for Rust
 - [Java wrapper for TON](https://github.com/broxus/ton-client) - Java wrapper for TON Client
+- [Jupyter kernels for FunC & Fift](https://github.com/atomex-me/xeus-fift) - FunC and Fift language bindings for Jupyter interactive notebooks
 
 ## Tutorials
 
 - [ubuntu16.04.sh](https://github.com/copperbits/TON/blob/master/docs/Copperbits_docs/ubuntu16.04.sh) - Build instructions for ubuntu 16.04.
 - [fift-sorting](https://github.com/kaspler/fift-sorting) - Implementation of sorting algorithms in the programming language Fift.
+- [FunC cheat sheet](https://mybinder.org/v2/gh/atomex-me/xeus-fift/binder?filepath=func_cheat_sheet.ipynb) - Interactive FunC notebook with the language basics.
 
 ## Block explorers & Dev-ops tools
 - [TON Labs Node SE](https://ton.dev/node-se) - SDK that contains a Compiler Kit and Client Libraries
