@@ -27,11 +27,10 @@ A curated list of awesome TON ecosystem.
 ## Original source codes and GitHub repo
 
 - [TON Documentation](https://test.ton.org) - TON Blockchain Test Network — files and resources
-- [ton.org mirror](https://github.com/poma/ton-lite-client) - GitHub mirror with changes history from test.ton.org
 - [ton-blockchain/ton](https://github.com/ton-blockchain/ton) - GitHub repository linked from ton.org
 - [Blockchain explorer](https://test.ton.org/testnet/) - Simple blockchain explorer for the TON Blockchain Test Network (testnet)
 - [Original source codes](http://test.ton.org/downloads.html) - is TON client tarball.
-- [GitHub mirror](https://github.com/poma/ton-lite-client) - unchanged up to date version of tarball on GitHub. Also fresh binaries and docker container.
+- [GitHub mirror](https://github.com/poma/ton) - CI repo with compiled binaries and a docker container.
 - [Community version on GitHub](https://github.com/copperbits/TON) - community version with added features.
 
 
