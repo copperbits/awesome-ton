@@ -57,6 +57,7 @@ A curated list of awesome TON ecosystem.
 - [Fullnode in docker](https://github.com/akme/ton-node) - Dockerfile for Telegram Open Network Node
 - [tonlib-go](https://github.com/mercuryoio/tonlib-go) - Golang bindings for tonapijson lib
 - [tonmon](https://github.com/akme/tonmon) - TON metrics for [tonmon.xyz](https://tonmon.xyz)
+- [ton-validation](https://github.com/everstake/ton-validation) - Small utility to automate validator requests and get rewards written in Python by [Everstake](https://everstake.one/)
 
 
 ## Telegram Bots and Faucets
