@@ -60,6 +60,8 @@ A curated list of awesome TON ecosystem.
 - [ton-validation](https://github.com/everstake/ton-validation) - Small utility to automate validator requests and get rewards written in Python by [Everstake](https://everstake.one/)
 - [Blockchair TON explorer](https://blockchair.com/ton) - explorer by [@Blockchair](https://github.com/blockchair/) based on [Blockchair TON JSON API](https://blockchair.com/api/docs#a-namelink_m35a-raw-data-endpoints-for-telegram-open-network)
 - [GramScan](https://gramscan.io/main) - TON blockchain explorer explorer by TON Labs
+- [TonWeb](https://github.com/toncenter/tonweb) - 
+JavaScript API for TON
 
 ## Telegram Bots and Faucets
 
