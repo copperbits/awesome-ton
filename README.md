@@ -63,6 +63,7 @@ A curated list of awesome TON ecosystem.
 
 ## Telegram Bots and Faucets
 
+- [@test_ton_bot](https://t.me/test_ton_bot) - telegram giver bot
 - [@Gram 50 bot](https://t.me/gram50bot) - TON bot wallet with faucet. Allows to create wallet / sent transactions on testnet.
 - [@buttonwalletbot](https://t.me/buttonwalletbot) - Telegram bot with integrate cryptocurrency, supports TON testnet interactions. Has own faucet for Grams.
 - [@TrackingTONupdates](https://t.me/TrackingTONupdates) - Telegram bot post message there about any new commits into original repo (03.07.2019: 27 members).
