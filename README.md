@@ -70,6 +70,7 @@ JavaScript API for TON
 - [@buttonwalletbot](https://t.me/buttonwalletbot) - Telegram bot with integrate cryptocurrency, supports TON testnet interactions. Has own faucet for Grams.
 - [@TrackingTONupdates](https://t.me/TrackingTONupdates) - Telegram bot post message there about any new commits into original repo (03.07.2019: 27 members).
 - [Faucet for TON](https://faucet.copperbits.io) - UI friendly faucet to get test Grams.
+- [TON Gram Faucet](https://faucet.grmhub.com) - Open source faucet where you can request test Grams
 
 ## Articles & Videos
 
