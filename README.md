@@ -62,6 +62,7 @@ A curated list of awesome TON ecosystem.
 - [GramScan](https://gramscan.io/main) - TON blockchain explorer explorer by TON Labs
 - [TonWeb](https://github.com/toncenter/tonweb) - 
 JavaScript API for TON
+- [3xpl TON explorer](https://3xpl.com/ton) — explorer by [@3xplcom](https://github.com/3xplcom) with public [JSON API](https://3xpl.com/data/json-api/docs)
 
 ## Telegram Bots and Faucets
 
